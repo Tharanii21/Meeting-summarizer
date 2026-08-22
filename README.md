@@ -41,9 +41,7 @@ Git & GitHub – Version control and project hosting
  Future Enhancements
 - Support for multiple audio and video formats.
 - Improve transcription accuracy for different accents and languages.
-- Add speaker identification to distinguish between different participants.
 - Provide downloadable meeting summaries.
-- Add support for automatic action-item and task extraction.
 - Improve the user interface with additional customization options.
 - Add meeting history so users can access previously generated summaries.
   
