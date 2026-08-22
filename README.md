@@ -10,7 +10,7 @@ Groq API Processing
 ↓
 Summary Generation
 ↓
-Display Results
+Results
 
 Technologies Used
 Python – Main programming language
